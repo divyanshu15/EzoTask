@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ezotask</string>
+    <string name="authorname">Author : %s</string>
+</resources>
